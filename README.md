@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pujith12
-- 👀 I’m interested in APP Devolpment and Web Devolpment
+- 👀 I’m interested in Data Science,Machine Learning,AI
 - 🌱 I’m currently learning .Python..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..@linkedin pujith reddy.
