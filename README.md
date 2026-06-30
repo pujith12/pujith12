@@ -1,56 +1,87 @@
-<!-- =============================== -->
+<!-- ========================= -->
 
-<!--        HERO BANNER              -->
+<!--      GITHUB PROFILE       -->
 
-<!-- =============================== -->
+<!-- ========================= -->
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2563EB&height=250&section=header&text=S%20PUJITH%20REDDY&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Data%20Analyst%20|%20AI%20Enthusiast&descAlignY=60"/>
-</p>
-
-<h1 align="center">Hi 👋 I'm S Pujith Reddy</h1>
+<h1 align="center">Hi, I'm S Pujith Reddy 👋</h1>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Developer;Full+Stack+Developer;Data+Analyst;AI+Enthusiast;Always+Learning+New+Technologies;Building+Projects+That+Solve+Real+Problems">
-
+  <strong>Software Developer • Data Analyst • AI Enthusiast</strong>
 </p>
 
 <p align="center">
+Building scalable software, solving real-world problems, and continuously learning modern technologies.
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=pujith12&label=Profile+Views&style=for-the-badge&color=2563EB"/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Developer;Full+Stack+Developer;Data+Analyst;Artificial+Intelligence+Enthusiast;Building+Projects+That+Matter" />
+</p>
 
-<img src="https://img.shields.io/github/followers/pujith12?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/pujith12?style=for-the-badge"/>
-
+<p align="center">
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
+<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 Profile
 
-💻 Passionate about building scalable software and solving real-world problems.
+I enjoy building software that combines **clean engineering**, **data-driven thinking**, and **artificial intelligence** to solve practical problems.
 
-📊 Interested in **Data Analytics**, **Artificial Intelligence**, and **Full Stack Development**.
+My interests include:
 
-🚀 Currently exploring **Agentic AI**, **LLMs**, **MERN Stack**, and **System Design**.
+* 💻 Software Development
+* 🌐 Full Stack Development
+* 🤖 Artificial Intelligence & LLM Applications
+* 📊 Data Analytics & Data Visualization
+* ⚡ Problem Solving & DSA
 
-🎯 Seeking opportunities as a **Software Developer**, **Full Stack Developer**, or **Data Analyst**.
+Currently expanding my expertise by building production-style applications, exploring AI technologies, and improving software engineering fundamentals.
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Technology Stack
 
-<p align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript"/>
 
 </p>
 
-<p align="center">
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=linux,postman"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 
 </p>
 
@@ -65,106 +96,212 @@
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Selected Work
 
-| Project                        | Description                                              | Technologies                |
-| ------------------------------ | -------------------------------------------------------- | --------------------------- |
-| 🤖 AI Packing Assistant        | Intelligent travel packing assistant powered by AI       | Python, FastAPI, Gemini API |
-| 📊 Election Data Analysis      | Exploratory Data Analysis and interactive visualizations | Python, Pandas, Matplotlib  |
-| 🌧 Rainfall Dashboard          | Power BI dashboard analyzing rainfall trends             | Excel, Power BI             |
-| 💻 CPU Scheduler Simulator     | Visualization of CPU Scheduling Algorithms               | HTML, CSS, JavaScript       |
-| 🎵 Music Streaming Application | Responsive full stack music platform                     | MERN Stack                  |
-| 🩺 Diabetes Prediction         | Machine Learning prediction system                       | Python, Scikit-learn        |
+### 🤖 AI Packing Assistant
+
+> AI-powered travel packing assistant that generates personalized packing recommendations using Large Language Models.
+
+**Tech Stack**
+
+`Python` `FastAPI` `Gemini API`
 
 ---
 
-# 📈 GitHub Analytics
+### 📊 Election Data Analysis
+
+Exploratory Data Analysis project focused on extracting meaningful insights using Python visualization libraries.
+
+**Highlights**
+
+* Data Cleaning
+* Visualization
+* Statistical Analysis
+
+**Tech Stack**
+
+`Python` `Pandas` `Matplotlib`
+
+---
+
+### 🌧 Rainfall Analytics Dashboard
+
+Interactive dashboard for analyzing rainfall patterns and trends.
+
+**Tech Stack**
+
+`Power BI`
+
+`Excel`
+
+`Data Analytics`
+
+---
+
+### 💻 CPU Scheduler Simulator
+
+Simulation of major Operating System scheduling algorithms with interactive visualization.
+
+**Algorithms**
+
+* FCFS
+* SJF
+* Round Robin
+* Priority Scheduling
+
+**Tech Stack**
+
+`HTML`
+
+`CSS`
+
+`JavaScript`
+
+---
+
+### 🎵 Music Streaming Application
+
+Responsive Full Stack web application.
+
+**Tech Stack**
+
+`MongoDB`
+
+`Express`
+
+`React`
+
+`Node.js`
+
+---
+
+### 🩺 Diabetes Prediction System
+
+Machine Learning application for disease prediction.
+
+**Tech Stack**
+
+`Python`
+
+`Machine Learning`
+
+`Scikit-learn`
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pujith12&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pujith12&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pujith12&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pujith12&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pujith12&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pujith12&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📊 Contribution Activity
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pujith12&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pujith12&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 Achievements
+# 🎯 Current Focus
+
+```text
+✓ Building Full Stack Applications
+
+✓ Learning MERN Stack
+
+✓ Exploring Agentic AI
+
+✓ Developing LLM Applications
+
+✓ Practicing Data Structures & Algorithms
+
+✓ Strengthening System Design Concepts
+```
+
+---
+
+# 🌱 Currently Learning
+
+* MERN Stack
+* Agentic AI
+* Retrieval-Augmented Generation (RAG)
+* Large Language Models
+* Cloud Computing
+* Software Architecture
+* Advanced SQL
+* Data Visualization
+
+---
+
+# 💡 Developer Philosophy
+
+> Write clean code.
+>
+> Keep learning.
+>
+> Build useful software.
+>
+> Improve every day.
+
+---
+
+# 📌 Goals
+
+* Build production-ready software projects
+* Contribute to open source
+* Master Full Stack Development
+* Deepen knowledge in AI and Data Analytics
+* Secure a Software Engineer role
+
+---
+
+# 🤝 Let's Connect
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pujith12&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-* 🌐 MERN Stack
-* 🤖 Agentic AI
-* 🧠 Large Language Models (LLMs)
-* ☁️ Cloud Computing
-* 🏗️ System Design
-* 📈 Advanced Data Analytics
-
----
-
-# 🎯 2026 Goals
-
-* ✅ Solve 500+ DSA Problems
-* ✅ Build Production-Level Full Stack Applications
-* ✅ Master Data Analytics
-* ✅ Contribute to Open Source
-* ✅ Secure a Software Developer Role
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/pujith-s/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.icons8.com/fluency/48/gmail-new.png" width="48"/>
+  
+
+<a href="mailto:pujithsathambakam@gmail.com">
+<img width="48" src="https://img.icons8.com/color/96/gmail-new.png"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.icons8.com/fluency/48/domain.png" width="48"/>
+  
+
+<a href="https://pujithportifolio.vercel.app/">
+<img width="48" src="https://img.icons8.com/fluency/96/domain.png"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Favorite Quote
+<p align="center">
 
-> **"Great software isn't just written—it's continuously improved."**
+<img src="https://komarev.com/ghpvc/?username=pujith12&style=for-the-badge&color=0e75b6"/>
 
----
+</p>
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0D1117&height=120&section=footer"/>
+### *"Building software that creates impact, one project at a time."*
 
 </p>
