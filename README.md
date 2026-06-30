@@ -274,19 +274,19 @@ Machine Learning application for disease prediction.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/pujith-s/">
+<a href=https://www.linkedin.com/in/pujith-s/>
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
   
 
-<a href="mailto:pujithsathambakam@gmail.com">
+<a href=mailto:pujithsathambakam@gmail.com>
 <img width="48" src="https://img.icons8.com/color/96/gmail-new.png"/>
 </a>
 
   
 
-<a href="https://pujithportifolio.vercel.app/">
+<a href=https://pujithportifolio.vercel.app/>
 <img width="48" src="https://img.icons8.com/fluency/96/domain.png"/>
 </a>
 
